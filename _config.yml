@@ -14,10 +14,10 @@ author: lvtrujillot
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Hi this is me"
+  About Me: "about_me"
   Resources:
     - Github: "https://github.com/LauraTrujilloT"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Posts: "https://lauratrujillot.github.io/"
   Author's home: "https://github.com/LauraTrujilloT"
 
 # --- Logo --- #
@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /path/to/image/github.jpg
 
 
 # --- Footer social media links --- #
