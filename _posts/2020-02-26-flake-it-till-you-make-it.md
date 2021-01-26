@@ -5,7 +5,7 @@ subtitle: A Smart Way to Get to Know your Morning Brew
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Machine Learning, Coffee, Brew, ML]
+tags: [MachineLearning, Coffee, Brew, ML]
 ---
 
 For centuries, coffee production has been a rudimentary task involving a huge consumption of energy along with a significant environmental impact. For instance, after selecting and milling, green coffee beans are then heated up in a gas-fired roaster for a given time, resulting in different flavors and characteristics for the consumer. 
