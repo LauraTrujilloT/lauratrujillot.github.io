@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning and Coffee: 
+title: Machine Learning and Coffee
 subtitle: A Smart Way to Get to Know your Morning Brew
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
