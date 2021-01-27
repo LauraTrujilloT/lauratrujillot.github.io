@@ -5,7 +5,7 @@ show-avatar: false
 ---
 
 I'm Laura Trujillo Taborda, a physics engineer from Universidad Nacional de Colombia.
- <a href="url"><img src="github.jpg" height="auto" width="200" style="border-radius:50%"></a>
+<img src="github.jpg" height="auto" width="200" style="border-radius:50%">
 I'am a data science enthusiast with deep interest in machine learning.
 
 
