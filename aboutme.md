@@ -16,7 +16,7 @@ show-avatar: false
    <div class="col-md-6" markdown="1">
    **Interests**
    
-   * High Energy Physics
+   ⚛️  High Energy Physics
    * Data Analysis / Data Science
    * Open-source software
    * High Performance / Scientific Computing
@@ -25,8 +25,9 @@ show-avatar: false
    **Education**
 
    🎓 Master in Particle Physics and the Cosmo, 2020
-
+   _Universidad de Cantabria_
    🎓 BSc in Physics Engineering, 2017
+   _Universidad Nacional de Colombia_
    </div>
   </div>
  </div>
